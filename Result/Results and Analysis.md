@@ -9,7 +9,7 @@ This section summarizes key trends in Denmark’s business landscape from 2002 t
 **Trend:**  
 From 2002 to 2010, the domestic share of total sales remained stable above **70%**. After 2010, a gradual decline began, reaching below **60%** by 2020. A sharp drop occurred around **2021**, falling close to **40%**, followed by a partial recovery in **2022–2024**.
 
-**![Share of Domestic Sales](charts\Domestic_Sales_Share.png)**
+![Share of Domestic Sales](charts\Domestic_Sales_Share.png)
 
 **Interpretation:**  
 This decline suggests a growing reliance on **international markets** or a shift in domestic consumption. The sharp dip during 2021 likely reflects **pandemic-related disruptions**, while the recovery hints at **market stabilization**.
