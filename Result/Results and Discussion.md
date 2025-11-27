@@ -66,3 +66,5 @@ A rising ratio indicates **higher input costs relative to sales**, suggesting **
 - Enterprise count shows **long-term growth**, with recent signs of **stabilization**.
 - Sales and purchase growth are **cyclical**, reflecting external shocks and recovery phases.
 - The purchase/sales ratio reveals **cost pressures** and potential margin shifts.
+
+This analysis is based on publicly available data from Danmarks Statistik (https://www.dst.dk), reused in accordance with their open data policy.
